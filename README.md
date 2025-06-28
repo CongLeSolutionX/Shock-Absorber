@@ -13,6 +13,11 @@ Copyright © 2025 Cong Le. All Rights Reserved.
 
 ---
 
+![Demo_Shock_Absorber](./ASSETS/Demo_Shock_Absorber.gif)
+
+---
+
+
 <div align="center">
 	
 ⚠️🏗️🚧🦺🧱🪵🪨🪚🛠️👷
